@@ -1,5 +1,5 @@
 # JTC
-Script written in Go which downloads videos from Reddit and uploads to your YouTube account.
+Script written in Go which downloads videos from Reddit and uploads it to your YouTube account.
 
 ## How does it work?
 It uses your reddit account to get a token and then a video from a subreddit of your choice is downloaded with it's audio. 
